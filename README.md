@@ -26,5 +26,9 @@ This is a simple **password manager app** built using **Python** and **Tkinter**
 2. Run the file:
 python password_manager.py
 
+Screenshots: 
+![Screenshot 2025-06-05 235435](https://github.com/user-attachments/assets/a0b60566-af94-4f73-b14f-f7fcbd6c68d6)
+![Screenshot 2025-06-05 235444](https://github.com/user-attachments/assets/cf0b1d7c-34ed-42fe-b9d1-306e86da2057)
+
 👩‍💻 Created by
 Shruti Chhipa – as part of the 100 Days of Code Python Bootcamp
